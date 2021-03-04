@@ -1,0 +1,5 @@
+Bundle-Name: war
+Bundle-SymbolicName: testing
+Bundle-Version: 1.0-SNAPSHOT
+-metatype: *
+-plugin.metatype: com.liferay.ant.bnd.metatype.MetatypePlugin
